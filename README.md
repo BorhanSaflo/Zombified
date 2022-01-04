@@ -1,0 +1,2 @@
+# Zombified
+Zombified is a game in which the objective is to survive each round of invading zombies before progressing on to a more challenging level. The game has 3 levels and the player has to defeat a boss zombie on the last level. The game features three levels, with the last level requiring the player to defeat a boss zombie.
